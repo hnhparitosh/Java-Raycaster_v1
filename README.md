@@ -6,10 +6,10 @@ The raycaster can be run directly from the executable jar file. Use either Arrow
 
 ## Screenshots of Raycaster
 
-Raycaster without ceiling and floor backgrounds
+Raycaster without ceiling and floor backgrounds  
 ![Without Background](cast_v0.gif)
 
-Raycaster with ceiling and floor backgrounds
+Raycaster with ceiling and floor backgrounds  
 ![With Background](cast_v1.gif)
 
 Link to 3DSage's video- <https://www.youtube.com/watch?v=gYRrGTC7GtA>  
