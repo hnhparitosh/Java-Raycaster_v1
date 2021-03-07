@@ -12,5 +12,7 @@ Raycaster without ceiling and floor backgrounds
 Raycaster with ceiling and floor backgrounds  
 ![With Background](cast_v1.gif)
 
+If you like this project, please give this repo a ⭐.
+
 Link to 3DSage's video- <https://www.youtube.com/watch?v=gYRrGTC7GtA>  
 Link to 3DSage's Github repository- <https://github.com/3DSage/OpenGL-Raycaster_v1>
